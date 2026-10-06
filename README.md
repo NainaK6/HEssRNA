@@ -1,5 +1,4 @@
-Package ‘HEssRNA’
-January 10, 2025
+# Package ‘HEssRNA’
 Title Heritability-Based Estimation of Sample Size for RNA-Seq Data
 Version 1.0.1
 Description Provides tools for estimating sample sizes primarily based on heritability, while also considering
