@@ -24,7 +24,6 @@ hIndexValDF - A data frame containing heritability index values with at least tw
 Value
 A data frame with two columns: Trait.name and MeanValue, where MeanValue represents the mean heritability for each trait.
 
-Examples
 # Example of usage:
 hIndexValDF <- data.frame(Trait.name = c("Trait1", "Trait2", "Trait1", "Trait2"),
 Heritability = c(0.5, 0.6, 0.7, 0.8))
@@ -105,7 +104,6 @@ A data frame in long format with columns:
 NoOfReplicates - Numeric representation of the replicate number extracted from column names (R1, R2, etc.).
 pwr - Power values rounded to 3 decimal places corresponding to the replicate number.
 
-Examples
 # Example of usage:
 df <- data.frame(
 Gene = c("Gene1", "Gene2"),
@@ -154,7 +152,6 @@ tissue - An optional parameter specifying the tissue type. If provided, the mode
 Value -A numeric value representing the predicted number of replicates. The value is rounded to the nearest
 whole number and adjusted to ensure it is valid for the selected heritability class.
 
-Examples
 # Example usage:
 df4modelInpt <- data.frame(
 NoOfReplicates = c(3, 5, 7, 9, 11),
@@ -206,7 +203,7 @@ Value
 A linear model object (lm class), which contains the fitted linear regression model for the numberof replicates prediction.
 
 smplSizPredModel.R
-Examples
+
 # Example usage:
 df4modelInpt <- data.frame(
 NoOfReplicates = c(3, 5, 7, 9, 11),
@@ -226,9 +223,4 @@ tissue = "Liver"
 )
 # Summarize the results
 summary(model)
-Index
-hIndxMeanCalc4Traits, 2
-powerCalc, 3
-prcesDF4modelInhouse, 4
-smplSizPred, 5
-smplSizPredModel, 7
+
