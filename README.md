@@ -83,21 +83,28 @@ warning("Example data files not found.")
 
 # **prcesDF4modelInhouse.R function**
 Process Data Frame in In-House Format for Model Building
+
 Description
+
 This function takes a data frame in an in-house format and processes it to make it in longer format
 and round the value of the power to 3 digits for building a model. It reshapes the data from a wide
 format to a long format, extracting and manipulating columns related to replicate numbers and
 power values. This function is needed when user has a data frame similar to the in-house format.
 For the purpose of creating model the user should also have Heritability class and log fold change value too.
+
 Usage
+
 prcesDF4modelInhouse(df4modelInhouseFmt)
+
 Arguments
+
 df4modelInhouseFmt - A data frame containing the input data in in-house format. The columns should include replicate columns named starting with "R" (e.g., R1, R2, etc.).
 smplSizPred 
 Value
 A data frame in long format with columns:
 NoOfReplicates - Numeric representation of the replicate number extracted from column names (R1, R2, etc.).
 pwr - Power values rounded to 3 decimal places corresponding to the replicate number.
+
 Examples
 # Example of usage:
 df <- data.frame(
@@ -111,13 +118,17 @@ print(result)
 
 # **smplSizPred.R function**
 Predict Number of Replicates Based on Heritability, Power, and Fold Change
+
 Description
+
 This function predicts the number of replicates required for a given experiment based on heritability,
 power, fold change, and tissue type. The model is constructed using the provided data, and the
 prediction is adjusted based on the selected trait’s mean heritability value. The function ensures
 that the predicted replicates are valid, rounding negative or unrealistic values to sensible minimums
 based on the heritability class.
+
 Usage
+
 smplSizPred(
 df4model = df4modelInpt,
 hIndexMeanDFinput = hIndexMeanDF,
@@ -128,7 +139,9 @@ trait = NULL,
 tissue = NULL
 )
 smplSizPred
+
 Arguments
+
 df4model - A data frame containing the input data for the model. It should include the following columns: NoOfReplicates, HeritabilityValue, pwr, FoldChange,
 and optionally Tissue.
 hIndexMeanDFinput - A data frame containing the mean heritability values for each trait. It should include at least the columns Trait.name and MeanValue.
@@ -164,7 +177,9 @@ print(NoOfReplicatesPred)
 
 # **smplSizPredModel.R function**
 Generate a Linear Model for Sample Size Prediction
+
 Description
+
 This function generates a linear regression model to predict the number of replicates (NoOfReplicates)
 based on heritability, power, fold change, and tissue type. The model is generated depending on
 whether the tissue information is provided in the data. The function returns the fitted model.
@@ -177,7 +192,9 @@ fc,
 trait = NULL,
 tissue = NULL
 )
+
 Arguments
+
 df4model - A data frame containing the input data for the model. It should include the
 following columns: NoOfReplicates, HeritabilityValue, pwr, FoldChange, and optionally, Tissue.
 heritabilityClass - A character value indicating the class of heritability used for filtering the data.
