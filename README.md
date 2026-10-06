@@ -12,13 +12,14 @@ Description
 This function processes heritability index data, filtering out empty trait names, and calculates the
 mean heritability for each unique trait. The resulting output is a data frame with traits and their
 corresponding mean heritability values.
+
 Usage
 
 hIndxMeanCalc4Traits(hIndexValDF)
+
 Arguments
-hIndexValDF A data frame containing heritability index values with at least two columns:
-Trait.name and Heritability. The Trait.name column should contain trait
-identifiers, and the Heritability column should contain numeric heritability values.
+
+hIndexValDF - A data frame containing heritability index values with at least two columns: Trait.name and Heritability. The Trait.name column should contain trait identifiers, and the Heritability column should contain numeric heritability values.
 
 Value
 A data frame with two columns: Trait.name and MeanValue, where MeanValue represents the mean heritability for each trait.
@@ -36,7 +37,9 @@ Description
 This function takes the required input information such as count data, sample data, etc. to calculate
 the power. It filters the input count data, performs DESeq2 analysis to calculate differentially expressed
 genes (DEGs), and then calculates the power of detecting these DEGs based on simulations.
+
 Usage
+
 powerCalc(
 countDat,
 smplDat,
@@ -45,18 +48,24 @@ thrsholdFC = 2,
 inptNoOfReplicates = 3,
 sims = 10
 )
+
 Arguments
+
 countDat - A matrix or data frame of raw count data where rows represent genes and columns represent samples.
 smplDat - A data frame of sample information, with at least a condition column that specifies the experimental condition of each sample.
 alpha The significance level (FDR threshold) used to identify differentially expressed genes. Default is 0.05.
 thrsholdFC - The threshold for the absolute value of log2 fold change used to filter DEGs. Default is 2.
 inptNoOfReplicates - The input number of replicates based on which the power will be calculated. Default is 3.
 sims - The number of simulations to run for power calculation. Default is 10.
+
 Details
+
 Example files included with this package:
 • exmplCountDat.csv: A toy dataset with count data.
 • exmplSampleDat.csv: A sample dataset with metadata.
+
 These files are stored in the HEssRNA package/inst/extdata directory and can be accessed using the system.file() function in R.
+
 prcesDF4modelInhouse - A data frame containing the calculated power values and related parameters.
 
 Examples
