@@ -13,6 +13,7 @@ This function processes heritability index data, filtering out empty trait names
 mean heritability for each unique trait. The resulting output is a data frame with traits and their
 corresponding mean heritability values.
 Usage
+
 hIndxMeanCalc4Traits(hIndexValDF)
 Arguments
 hIndexValDF A data frame containing heritability index values with at least two columns:
