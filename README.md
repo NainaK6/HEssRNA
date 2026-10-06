@@ -7,7 +7,7 @@ additional parameters such as statistical power and fold change. The package nor
 heritability values according to trait-specific heritability and classification to enhance accuracy
 in sample size estimation.
 
-**hIndxMeanCalc4Traits.R function**
+# **hIndxMeanCalc4Traits.R function**
 Calculate Mean Heritability Index for Traits
 Description
 This function processes heritability index data, filtering out empty trait names, and calculates the
