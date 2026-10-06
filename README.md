@@ -30,7 +30,7 @@ Heritability = c(0.5, 0.6, 0.7, 0.8))
 result <- hIndxMeanCalc4Traits(hIndexValDF)
 print(result)
 
-**powerCalc.R function**
+# **powerCalc.R function**
 Power Calculation from gene expression data information
 Description
 This function takes the required input information such as count data, sample data, etc. to calculate
@@ -72,7 +72,7 @@ print(result$PowerResults)
 warning("Example data files not found.")
 }
 
-**prcesDF4modelInhouse.R function**
+# **prcesDF4modelInhouse.R function**
 Process Data Frame in In-House Format for Model Building
 Description
 This function takes a data frame in an in-house format and processes it to make it in longer format
@@ -100,7 +100,7 @@ R3 = c(0.83, 0.89)
 result <- prcesDF4modelInhouse(df)
 print(result)
 
-**smplSizPred.R function**
+# **smplSizPred.R function**
 Predict Number of Replicates Based on Heritability, Power, and Fold Change
 Description
 This function predicts the number of replicates required for a given experiment based on heritability,
@@ -153,7 +153,7 @@ trait = "Trait1",
 tissue = "Liver")
 print(NoOfReplicatesPred)
 
-**smplSizPredModel.R function**
+# **smplSizPredModel.R function**
 Generate a Linear Model for Sample Size Prediction
 Description
 This function generates a linear regression model to predict the number of replicates (NoOfReplicates)
