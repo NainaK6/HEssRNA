@@ -1,0 +1,91 @@
+"Project","HeritabilityClass","HeritabilityValue","Tissue","FoldChange","NoOfReplicates","pwr"
+"PRJNA750795","high",0.361,"Longissimus dorsi",1.5,3,0
+"PRJNA750795","high",0.361,"Longissimus dorsi",1.5,6,0.248
+"PRJNA750795","high",0.361,"Longissimus dorsi",1.5,9,0.264
+"PRJNA750795","high",0.361,"Longissimus dorsi",1.5,12,0.299
+"PRJNA750795","high",0.361,"Longissimus dorsi",1.5,15,0.32
+"PRJNA750795","high",0.361,"Longissimus dorsi",2,3,0.181
+"PRJNA750795","high",0.361,"Longissimus dorsi",2,6,0.46
+"PRJNA750795","high",0.361,"Longissimus dorsi",2,9,0.458
+"PRJNA750795","high",0.361,"Longissimus dorsi",2,12,0.456
+"PRJNA750795","high",0.361,"Longissimus dorsi",2,15,0.468
+"PRJNA750795","high",0.361,"Longissimus dorsi",3,3,0.417
+"PRJNA750795","high",0.361,"Longissimus dorsi",3,6,0.54
+"PRJNA750795","high",0.361,"Longissimus dorsi",3,9,0.532
+"PRJNA750795","high",0.361,"Longissimus dorsi",3,12,0.524
+"PRJNA750795","high",0.361,"Longissimus dorsi",3,15,0.518
+"PRJNA666649","mid",0.193,"Liver",1.5,3,0
+"PRJNA666649","mid",0.193,"Liver",1.5,6,0.031
+"PRJNA666649","mid",0.193,"Liver",1.5,9,0.357
+"PRJNA666649","mid",0.193,"Liver",1.5,12,0.405
+"PRJNA666649","mid",0.193,"Liver",1.5,15,0.37
+"PRJNA666649","mid",0.193,"Liver",2,3,0
+"PRJNA666649","mid",0.193,"Liver",2,6,0.382
+"PRJNA666649","mid",0.193,"Liver",2,9,0.577
+"PRJNA666649","mid",0.193,"Liver",2,12,0.6
+"PRJNA666649","mid",0.193,"Liver",2,15,0.578
+"PRJNA666649","mid",0.193,"Liver",3,3,0.444
+"PRJNA666649","mid",0.193,"Liver",3,6,0.451
+"PRJNA666649","mid",0.193,"Liver",3,9,0.62
+"PRJNA666649","mid",0.193,"Liver",3,12,0.663
+"PRJNA666649","mid",0.193,"Liver",3,15,0.627
+"PRJNA476965","low",0.1,"Mammary gland",1.5,3,0
+"PRJNA476965","low",0.1,"Mammary gland",1.5,6,0
+"PRJNA476965","low",0.1,"Mammary gland",1.5,9,0.003
+"PRJNA476965","low",0.1,"Mammary gland",1.5,12,0.038
+"PRJNA476965","low",0.1,"Mammary gland",1.5,15,0.11
+"PRJNA476965","low",0.1,"Mammary gland",2,3,0
+"PRJNA476965","low",0.1,"Mammary gland",2,6,0.005
+"PRJNA476965","low",0.1,"Mammary gland",2,9,0.23
+"PRJNA476965","low",0.1,"Mammary gland",2,12,0.266
+"PRJNA476965","low",0.1,"Mammary gland",2,15,0.336
+"PRJNA476965","low",0.1,"Mammary gland",3,3,0
+"PRJNA476965","low",0.1,"Mammary gland",3,6,0.213
+"PRJNA476965","low",0.1,"Mammary gland",3,9,0.383
+"PRJNA476965","low",0.1,"Mammary gland",3,12,0.426
+"PRJNA476965","low",0.1,"Mammary gland",3,15,0.475
+"PRJNA639363","mid",0.15,"Blood",1.5,3,0
+"PRJNA639363","mid",0.15,"Blood",1.5,6,0
+"PRJNA639363","mid",0.15,"Blood",1.5,9,0.002
+"PRJNA639363","mid",0.15,"Blood",1.5,12,0.037
+"PRJNA639363","mid",0.15,"Blood",1.5,15,0.084
+"PRJNA639363","mid",0.15,"Blood",2,3,0
+"PRJNA639363","mid",0.15,"Blood",2,6,0.054
+"PRJNA639363","mid",0.15,"Blood",2,9,0.178
+"PRJNA639363","mid",0.15,"Blood",2,12,0.255
+"PRJNA639363","mid",0.15,"Blood",2,15,0.311
+"PRJNA639363","mid",0.15,"Blood",3,3,0
+"PRJNA639363","mid",0.15,"Blood",3,6,0.274
+"PRJNA639363","mid",0.15,"Blood",3,9,0.372
+"PRJNA639363","mid",0.15,"Blood",3,12,0.426
+"PRJNA639363","mid",0.15,"Blood",3,15,0.453
+"PRJNA489591","high",0.361,"Longissimus dorsi",1.5,3,0
+"PRJNA489591","high",0.361,"Longissimus dorsi",1.5,6,0
+"PRJNA489591","high",0.361,"Longissimus dorsi",1.5,9,0
+"PRJNA489591","high",0.361,"Longissimus dorsi",1.5,12,0.017
+"PRJNA489591","high",0.361,"Longissimus dorsi",1.5,15,0.043
+"PRJNA489591","high",0.361,"Longissimus dorsi",2,3,0
+"PRJNA489591","high",0.361,"Longissimus dorsi",2,6,0
+"PRJNA489591","high",0.361,"Longissimus dorsi",2,9,0.111
+"PRJNA489591","high",0.361,"Longissimus dorsi",2,12,0.293
+"PRJNA489591","high",0.361,"Longissimus dorsi",2,15,0.336
+"PRJNA489591","high",0.361,"Longissimus dorsi",3,3,0
+"PRJNA489591","high",0.361,"Longissimus dorsi",3,6,0.142
+"PRJNA489591","high",0.361,"Longissimus dorsi",3,9,0.365
+"PRJNA489591","high",0.361,"Longissimus dorsi",3,12,0.499
+"PRJNA489591","high",0.361,"Longissimus dorsi",3,15,0.523
+"PRJNA627642","low",0.054,"Liver",1.5,3,0
+"PRJNA627642","low",0.054,"Liver",1.5,6,0
+"PRJNA627642","low",0.054,"Liver",1.5,9,0
+"PRJNA627642","low",0.054,"Liver",1.5,12,0.002
+"PRJNA627642","low",0.054,"Liver",1.5,15,0.021
+"PRJNA627642","low",0.054,"Liver",2,3,0
+"PRJNA627642","low",0.054,"Liver",2,6,0.002
+"PRJNA627642","low",0.054,"Liver",2,9,0.107
+"PRJNA627642","low",0.054,"Liver",2,12,0.161
+"PRJNA627642","low",0.054,"Liver",2,15,0.211
+"PRJNA627642","low",0.054,"Liver",3,3,0
+"PRJNA627642","low",0.054,"Liver",3,6,0.226
+"PRJNA627642","low",0.054,"Liver",3,9,0.318
+"PRJNA627642","low",0.054,"Liver",3,12,0.367
+"PRJNA627642","low",0.054,"Liver",3,15,0.389

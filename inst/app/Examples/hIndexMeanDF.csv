@@ -1,0 +1,698 @@
+"Trait.name","MeanValue"
+"Chest width",0.21375
+"Angularity",0.181
+"Dry matter intake",0.309203703703704
+"Rump angle",0.284545454545455
+"Metabolic body weight",0.380714285714286
+"Rump width",0.272583333333333
+"Body condition score",0.2634
+"Stature",0.405866666666667
+"Milk energy yield",0.215
+"Milk yield",0.272
+"Body depth",NA
+"Body weight",0.448345454545455
+"Residual feed intake",0.214807142857143
+"Locomotion",0.0563333333333333
+"Milk protein percentage",0.405886363636364
+"Milk fat-to-protein ratio",0.162
+"test-day milk yield",0.179
+"energy-corrected milk yield",0.21
+"Energy balance",0.16
+"heart girth",0.32
+"Dairy form",0.250090909090909
+"Udder attachment",NA
+"Milk protein yield",0.24
+"Udder height",0.214615384615385
+"Rear leg placement - side view",0.15
+"teat position, rear",0.27
+"Udder depth",0.326875
+"Udder width",0.193333333333333
+"Rump conformation",0.21
+"Udder composite index",0.253333333333333
+"Udder quality",0.26
+"Teat length",0.33
+"Conformation score",0.2775
+"Milk fat yield",0.249925925925926
+"Body capacity",0.306666666666667
+"Milk lactose yield",0.248266666666667
+"Bone quality",0.2275
+"days from first to last service (first lactation)",0.03
+"days from calving to first service (second lactation)",0.04
+"Foot angle",0.0944444444444444
+"days open (first parity)",0.03
+"days from first to last service (second lactation)",0.03
+"days open (second parity)",0.055
+"C18:3 n-6 fatty acid content",0.032
+"Linolenic acid content",0.0733333333333333
+"Elongation index",0.53
+"Longissimus muscle area",0.344538181818182
+"Monounsaturated to saturated fatty acid ratio",0.5
+"Saturated fatty acid content",0.353425
+"Eicosenoic acid content",0.1765
+"Carcass weight",0.345295454545455
+"Desaturation index",0.51
+"Oleic acid content",0.3375
+"Linoleic acid content",0.1975
+"Arachidonic acid content",0.0885
+"Myristic acid content",0.342833333333333
+"Monounsaturated fatty acid content",0.357285714285714
+"Shear force",0.224944444444444
+"Palmitic acid content",0.3075
+"Stearic acid content",0.2625
+"Intramuscular fat",0.369835294117647
+"Marbling score",0.430223295454545
+"Polyunsaturated fatty acid content",0.171714285714286
+"Palmitoleic acid content",0.263166666666667
+"Polyunsaturated to saturated fatty acid ratio",0.26
+"Subcutaneous fat thickness",0.338578947368421
+"Milk lactose content",0.421785714285714
+"Somatic cell score",0.17790243902439
+"Length of productive life",0.15
+"Rear leg placement - rear view",0.138
+"Temperament",0.27
+"weaning weight",0.3
+"yearling weight",0.384
+"Dam productivity",0.195
+"Scrotal circumference",0.385058333333333
+"hip height",0.5098
+"Heifer pregnancy",0.22
+"Age at first calving",0.174666666666667
+"Body weight gain",0.21
+"Calving to conception interval",0.0381333333333333
+"Milking speed",0.298333333333333
+"Mobility score",0.11
+"Muscle sodium content",0.425
+"fat thickness",0.67
+"Tenderness score",0.3
+"Muscle calcium content",0.24
+"Muscle phosphorus content",0.375
+"Muscle carnosine content",0.48
+"Muscle magnesium content",0.47
+"Muscle creatine content",0.47
+"Juiciness",0.278
+"Muscle iron content",0.455
+"Muscle zinc content",0.305
+"Kidney, pelvic, and heart fat percentage",0.256363636363636
+"Muscle anserine content",0.64
+"Muscle sulfur content",0.3
+"Muscle cobalt content",0.33
+"Muscle copper content",0.3
+"Muscle chromium content",0.36
+"Muscle manganese content",0.33
+"Muscle potassium content",0.365
+"Muscle arsenic content",0.34
+"Muscle selenium content",0.32
+"First service conception",0.11375
+"305-day milk yield",0.252
+"Interval to first estrus after calving",0.0529166666666667
+"305-day milk protein yield",0.33
+"Calving interval",0.0614705882352941
+"Inseminations per conception",0.0828
+"305-day milk fat yield",0.325
+"fat thickness at 12th rib",0.46
+"Dressing percentage",0.2768
+"Yield grade",0.47
+"adjusted fat thickness",0.465
+"Cutability",0.71
+"Quality grade",0.396666666666667
+"Milk beta-carotene yield",0.265
+"Milk fat color",0.348333333333333
+"Milk color",0.365
+"Retail product yield",0.492
+"Beef flavor intensity",0.153333333333333
+"12th-rib fat thickness",0.26
+"Meat flavor score",0.09
+"Serum phosphorus level",0.4
+"Serum magnesium level",0.36
+"weight at weaning",0.35
+"Blood calcium level",0.2365
+"final test weight",0.48
+"birth weight",0.335636363636364
+"pre-weaning average daily gain",0.3
+"post-weaning average daily gain",0.41
+"Fat weight",0.293333333333333
+"fat thickness at the 12th rib",0.205
+"Bone weight",0.39
+"Fat percentage",0.331428571428571
+"Bone percentage",0.254285714285714
+"14-day shear force",0.2
+"body weight at 200 days",0.315
+"adjusted fat 12th rib",0.28
+"front teat placement",0.358333333333333
+"Thurl width",0.254
+"Strength",0.278625
+"Milk urea nitrogen content",0.256
+"Age at puberty",0.151
+"Non-return rate",0.015625
+"General disease susceptibility",0.02
+"Clinical mastitis",0.074975
+"mature equivalent 305-day milk yield",0.25
+"milk production in 305 d",0.273333333333333
+"Somatic cell count",0.212333333333333
+"Milk fat percentage",0.363545454545455
+"Feet and leg conformation",NA
+"Udder cleft",0.235
+"daily gain on test",0.5
+"slaughter weight",0.4225
+"pre-weaning daily gain",0.2
+"Teat placement",0.21
+"Loin strength",0.243333333333333
+"teat position, front",0.34
+"Milk caprylic acid content",0.36975
+"Milk caproic acid content",0.407
+"Milk capric acid content",0.433008333333333
+"Milk myristic acid content",0.363807692307692
+"Milk butyric acid content",0.392071428571429
+"Milk lauric acid content",0.386041666666667
+"fat and protein-corrected milk yield",0.415
+"Pregnancy rate",0.118
+"Luteal activity",0.13
+"Milk zinc content",0.53
+"Milk magnesium content",0.41
+"Milk phosphorus content",0.421833333333333
+"Milk iron content",0.0750955
+"Milk manganese content",0.13
+"Milk copper content",0.28
+"Milk calcium content",0.360666666666667
+"Milk selenium content",0.15
+"Milk sodium content",0.239
+"Milk potassium content",0.433333333333333
+"Calving ease",0.126
+"Stillbirth",0.077
+"Gestation length",0.2681
+"back fat thickness",0.325
+"Meat percentage",0.38
+"Intermuscular fat percentage",0.44
+"Average daily gain",0.322148717948718
+"Sperm motility",0.152142857142857
+"Semen volume",0.266153846153846
+"sperm counts",0.173333333333333
+"Sperm concentration",0.227272727272727
+"Milk beta-lactoglobulin percentage",0.678888888888889
+"Milk beta-casein percentage",0.331111111111111
+"Milk kappa-casein percentage",0.584444444444444
+"Milk alpha-S1-casein percentage",0.41
+"Milk alpha-lactalbumin percentage",0.447777777777778
+"Milk glycosylated kappa-casein percentage",0.44
+"Milk phosphorylated alpha-S1-casein percentage",0.14
+"Milk alpha-S2-casein percentage",0.368888888888889
+"Udder swelling score",0.555
+"Maternal behavior",0.1215
+"Biceps brachii weight",0.39
+"Quadriceps weight",0.44
+"Hindshank weight",0.51
+"Milk medium-chain fatty acid content",0.349611111111111
+"Milk long-chain fatty acid content",0.174415555555556
+"Milk unsaturated fatty acid content",0.195818181818182
+"Milk saturated fatty acid content",0.3245
+"Milk short-chain fatty acid content",0.32
+"Milk oleic acid content",0.189076923076923
+"Milk margaric acid content",0.32634
+"Milk stearic acid content",0.243238461538462
+"Methane production",0.25
+"Milk monounsaturated fatty acid content",0.124957142857143
+"Milk palmitic acid content",0.307923076923077
+"Crude protein intake",0.15
+"Net energy of lactation intake",0.18
+"Milk urea nitrogen yield",0.28
+"Milk energy content",0.56
+"Milk polyunsaturated fatty acid content",0.193966666666667
+"Interval from first to last insemination",0.0313333333333333
+"Liver weight",0.18
+"Kidney weight",0.37
+"Heart weight",0.31
+"Lung weight",0.32
+"Spleen weight",0.21
+"Cis-9,trans-11-Octadecadienoic acid content",0.055
+"Docosahexaenoic acid content",0.17
+"Eicosapentaenoic acid content",0.09
+"trans-10,cis-12-Octadecadienoic acid content",0.12
+"Cis-11,14,17-Eicosatrienoic acid content",0.103
+"Cis-11,14-Eicosadienoic acid content",0.0535
+"Arachidic acid content",0.07375
+"Omega-6 polyunsaturated fatty acid content",0.13458
+"Lignoceric acid content",0.03025
+"Docosapentaenoic acid content",0.075
+"Myristoleic acid content",0.3425
+"Omega-6 to omega-3 fatty acid ratio",0.1405
+"Docosanoic acid content",0.12975
+"Omega-3 unsaturated fatty acid content",0.10272
+"Udder balance",0.277142857142857
+"305-day adjusted milk yield",0.25
+"mature weight",0.46
+"Anti-Müllerian hormone level",0.384
+"M. paratuberculosis susceptibility",0.08299
+"Udder structure",0.2395
+"Muscularity",0.457714285714286
+"daily milk yield",0.230111111111111
+"Udder capacity",0.398
+"NKp46-positive leukocyte percentage",0.42
+"Lymphocyte percentage",0.23
+"CD8-positive leukocyte percentage",0.41
+"Eosinophil percentage",0.17
+"CD4-positive to CD8-positive leukocyte ratio",0.43
+"Monocyte percentage",0.15
+"CD4-positive leukocyte percentage",0.46
+"Peripheral blood mononuclear cell percentage",0.295
+"Neutrophil percentage",0.27
+"calving ease maternal",0.04
+"Milk freezing point",0.126
+"backfat thickness",0.266170272727273
+"rump fat thickness",0.270588235294118
+"Days to calving",0.115
+"mature height",0.35
+"Milk whey protein yield",0.286666666666667
+"Milk casein yield",0.206666666666667
+"weight gain from weaning to yearling",0.12
+"yearling hip height",0.37
+"Milk protein-to-fat ratio",0.24
+"Milk solids yield",0.27
+"maternal calving ease",0.1
+"Unsaturated fatty acid content",0.42
+"Finishing precocity",0.402
+"Rump length",0.16
+"average daily feed intake",0.393333333333333
+"Metritis",0.100457142857143
+"Retained placenta",0.119257142857143
+"Cystic ovaries",0.0323333333333333
+"Ketosis",0.124116666666667
+"Lameness",0.16945
+"Milk fever",0.0383333333333333
+"Anogenital distance",0.37
+"Milk cis-6,9,12,15-Octadecatetraenoic acid content",0.1928
+"Milk branched-chain fatty acid content",0.23435
+"Milk undecylic acid content",0.268833333333333
+"Milk rumenic acid content",0.3132
+"Milk linoleic acid content",0.2115125
+"Milk myristoleic acid content",0.487014285714286
+"Milk enanthic acid content",0.225366666666667
+"Milk cis-9-Heptadecenoic acid content",0.1159
+"Milk cis-11,14-Eicosadienoic acid content",0.1139
+"Milk cis-4,7,10,13,16,19-Docosahexaenoic acid content",0.2407
+"Milk C18 index",0.328175
+"Milk eicosapentaenoic acid content",0.13895
+"Milk linolenic acid content",0.1696625
+"Milk tridecylic acid content",0.243833333333333
+"Milk pentadecylic acid content",0.2640375
+"Milk cis-8,11,14-Eicosatrienoic acid content",0.26675
+"Milk odd-chain fatty acid percentage",0.28255
+"Milk cis-12-Octadecenoic acid content",0.193533333333333
+"Milk trans-5-Octadecenoic acid content",0
+"Milk trans-11,cis-15-Octadecadienoic acid content",0.13875
+"Milk cis-vaccenic acid content",0.1644
+"Milk omega-6 to omega-3 fatty acid ratio",0
+"Milk cis-7,10,13,16,19-Docosapentaenoic acid content",0.105085
+"Milk trans-4-Octadecenoic acid content",0.1074
+"Milk trans-fatty acid content",0.1553
+"Milk cis-9,trans-11,cis-15-Octadecatrienoic acid content",0.3247
+"Milk arachidonic acid content",0.2315
+"Milk trans-12-Octadecenoic acid content",0.1896
+"Milk C16 index",0.4134625
+"Milk palmitoleic acid content",0.467557142857143
+"Milk valeric acid content",0.221533333333333
+"Milk C10 index",0.544766666666667
+"Milk palmitelaidic acid content",0.259
+"Milk polyunsaturated to saturated fatty acid ratio",0.24
+"Milk trans-16-Octadecenoic acid content",0.1542
+"Milk C14 index",0.5298375
+"Milk unsaturated to saturated fatty acid ratio",0.17865
+"Milk trans-10-Octadecenoic acid content",0.0777333333333333
+"Milk arachidic acid content",0.224266666666667
+"Milk omega-3 fatty acid content",0.2456
+"Milk lauroleic acid content",0.19265
+"Milk cis-9-C10:1 fatty acid content",0.20735
+"Milk trans-9,trans-12-Octadecadienoic acid content",0.07365
+"Milk trans-9-Octadecenoic acid content",0.117333333333333
+"Milk omega-6 fatty acid content",0.1741
+"Milk cis-7,10,13,16-Docosatetraenoic acid content",0.0645
+"Milk trans-vaccenic acid content",0.191333333333333
+"Milk trans-6/8-Octadecenoic acid content",0
+"Abomasum displacement",0.1122
+"Milk lactose-to-solids ratio",0.538
+"Milk lactose-to-fat ratio",0.445
+"Milk lactose-to-protein ratio",0.474
+"skinfold thickness over the last rib",0.26
+"skinfold thickness over the neck",0.13
+"Feed conversion ratio",0.234691666666667
+"ultrasound backfat thickness",0.475
+"Testicular hypoplasia",0.164
+"Colostrum quality",0.19
+"Colostrum quantity",0.76
+"milk yield (second parity)",0.277
+"milk fat yield (second parity)",0.242
+"milk yield (third parity)",0.346
+"milk protein yield (second parity)",0.264
+"somatic cell score (second parity)",0.107
+"milk fat yield (first parity)",0.222
+"milk fat yield (third parity)",0.262
+"milk yield (first parity)",0.291
+"milk protein yield (first parity)",0.251
+"somatic cell score (third parity)",0.119
+"Body length",0.54
+"Body height",0.501
+"Milk conjugated linoleic acid content",0.2
+"Multiple birth",0.0806
+"Muscle pH",0.0423995
+"meat color b*",0.247
+"Drip loss",0.139
+"Cooking loss",0.081
+"meat color chroma",0.212
+"meat color L*",0.386
+"meat color a*",0.197
+"Bovine leukemia virus susceptibility",0.082
+"Stayability",0.123333333333333
+"meat color score",0.155
+"Meat texture",0.215
+"Fat color",0.2039275
+"days from calving to first service (first lactation)",0.04
+"conformation score at yearling",0.24
+"finishing precocity at yearling",0.31
+"Body size",0.329
+"Bovine respiratory disease susceptibility",0.18504
+"Endometritis",0.13496
+"Dystocia",0.19224
+"Milk cholesterol content",0.115
+"Lean meat yield",0.436666666666667
+"Triiodothyronine level",0.1059
+"Insulin level",0.0635
+"Thyroxine level",0.1948
+"Interdigital hyperplasia",0.223
+"Sole hemorrhage",0.125666666666667
+"Digital dermatitis",0.1344
+"Sole ulcer",0.18
+"White line disease",0.0845
+"body weight at 18 months",0.43
+"Body weight (yearling)",0.25
+"sacrum height",0.7
+"body length at 18 months",0.28
+"heart girth at 18 months",0.3
+"withers height at 18 months",0.28
+"abdominal size at 6 months",0.51
+"withers height at 12 months",0.29
+"cannon bone circumference at 6 months",0.62
+"hip height at 6 months",0.51
+"heart girth at 12 months",0.33
+"hip height at 18 months",0.41
+"body length at 12 months",0.53
+"hip height at 12 months",0.27
+"Sperm head abnormalities",0
+"Sperm tail abnormalities",0.02
+"Lactation persistency",0.105
+"C22:1 fatty acid content",0.0185
+"Dihomo-gamma-linolenic acid content",0.003
+"Atherogenic index",0.273
+"cis-10-Heptadecenoic acid content",0.2435
+"Tricosanoic acid content",0.016
+"Teat size",0.28
+"Margaric acid content",0.275
+"Milk rennet coagulation time",0.349333333333333
+"milk pH",0.25
+"Curd firmness",0.3975
+"interval from calving to first insemination (second parity)",0.04
+"conception rate (first parity)",0.021
+"interval from first to last insemination (maiden heifers)",0.016
+"interval from first to last insemination (third parity)",0.044
+"interval from calving to first insemination (third parity)",0.0495
+"interval from first to last insemination (first parity)",0.0325
+"interval from calving to first insemination (first parity)",0.053
+"conception rate (third parity)",0.0265
+"interval from first to last insemination (second parity)",0.0425
+"Antral follicle number",0.3
+"Residual gain",0.165
+"Feed efficiency",0.185525
+"Mean corpuscular hemoglobin concentration",0.303333333333333
+"Platelet number",0.116666666666667
+"Basophil number",0.19
+"Eosinophil number",0.13
+"Lymphocyte number",0.16
+"Mean corpuscular volume",0.286666666666667
+"Monocyte number",0.06
+"Hemoglobin",0.183333333333333
+"White blood cell number",0.233333333333333
+"adjusted weaning weight (205 d)",0.51
+"Neutrophil number",0.29
+"Red blood cell number",0.233333333333333
+"Hair length",0.32
+"Milk C17 index",0.47
+"Milk saturated to unsaturated fatty acid ratio",0.29
+"Milk fatty acid unsaturated index",0.3
+"fore teat distance",0.356666666666667
+"meat color lightness (L*)",0.52
+"meat color yellowness (b*)",0.0775
+"meat color redness (a*)",0.11
+"non-return rate (heifers)",0.0295
+"non-return rate (cows)",0.02
+"Chewiness score",0.21
+"height at front end",0.14
+"Udder texture",0.1
+"rear teat placement",0.22
+"Milk casein percentage",0.34
+"Fat cover",0.175714285714286
+"Carcass conformation score",0.19
+"Kleiber ratio",0.28
+"Relative growth rate",0.22205
+"Ear length",0.74
+"Hip width",0.74
+"height at withers",0.72
+"Body temperature",0.062
+"residual gain (heifers)",0.21
+"dry matter intake per day (heifers)",0.84
+"residual gain (cows)",0.14
+"residual feed intake (cows)",0.16
+"residual feed intake (heifers)",0.25
+"average daily gain (heifers)",0.53
+"average daily gain (cows)",0.34
+"calving interval (first parity)",0.01
+"gestation length (third parity)",0.16
+"gestation length (second parity)",0.12
+"calving interval (second parity)",0.04
+"calving interval (third parity)",0.07
+"days open (third parity)",0.08
+"gestation length (first parity)",0.14
+"Time to curd firmness",0.43
+"sperm motility 48 hr post-collection",0.1
+"sperm motility 24 hr post-collection",0.06
+"Percentage abnormal sperm",0.02
+"dry matter intake (per day)",0.395
+"number of visits to feeder per day",0.27
+"Average feeding rate",0.38
+"time spent at feed bunk per day",0.56
+"duration of one feeding event",0.375
+"Milk flow rate, maximum",0.41
+"Milking time",0.36
+"Milk flow rate, average",0.24
+"Heel horn erosion",0.08
+"Meat firmness",0.19
+"interval from first to successful insemination (heifers)",0.011
+"number of inseminations (heifers)",0.019
+"Milk whey protein percentage",0.67
+"Curd firming rate",0.42
+"Non-coagulating milk",0.28
+"milk acetone content (third parity)",0.01
+"Milk beta-hydroxybutyrate content",0.03
+"milk beta-hydroxybutyrate content (second parity)",0.04
+"milk acetone content (second parity)",0.07
+"milk beta-hydroxybutyrate content (first parity)",0.04
+"Milk acetone content",0.05
+"milk acetone content (first parity)",0.07
+"body weight at 30 months",0.405
+"first service period",0.171
+"body weight at 6 months",0.291
+"body weight at 24 months",0.48
+"first calving interval",0.178
+"body weight at first calving",0.154
+"somatic cell score (first parity)",0.0673333333333333
+"Milk citrate content",0.48
+"Calf mortality",0.3513
+"hip height at birth",0.28
+"heart girth at 200 days",0.28
+"body length at 400 days",0.48
+"body weight at 600 days",0.5
+"heart girth at 400 days",0.36
+"body length at 600 days",0.51
+"body length at 200 days",0.42
+"heart girth at 600 days",0.43
+"body length at birth",0.34
+"body weight at 12 months",0.234
+"dry matter intake per day (cows)",0.53
+"milk protein yield (third parity)",0.314
+"milk beta-hydroxybutyrate content (third parity)",0.03
+"body weight at 550 days",0.5
+"Yearling weight",0.31
+"Ultrasound backfat thickness",0.3
+"Ultrasound intramuscular fat content",0.19
+"Backfat thickness",0.56
+"Ultrasound longissimus muscle area",0.32
+"muscularity at yearling",0.32
+"muscularity at weaning",0.19
+"finishing precocity at weaning",0.2
+"conformation score at weaning",0.16
+"conception rate (second parity)",0.0255
+"conception rate (maiden heifers)",0.0125
+"dry matter intake per visit",0.335
+"dry matter intake per day",0.12
+"total duration of feeder visits per day",0.19
+"number of feeder visits per day",0.18
+"feeding rate per visit",0.215
+"feed intake per visit to feeder",0.185
+"duration of each feeder visit",0.19
+"left eyelid pigmentation",0.26
+"right eyelid pigmentation",0.31
+"Eyelid pigmentation",0.41
+"digital cushion thickness (flexor tuberosity), late lactation",0.29
+"digital cushion thickness (flexor tuberosity), pre-calving",0.14
+"sole lesion severity, late lactation",0.16
+"white line lesion severity, early lactation",0.11
+"sole lesion severity, calving",0.12
+"digital cushion thickness (max), pre-calving",0.23
+"sole lesion severity, pre-calving",0.16
+"sole lesion severity, early lactation",0.2
+"digital cushion thickness (max), early lactation",0.29
+"digital cushion thickness (max), late lactation",0.44
+"white line lesion severity, late lactation",0.13
+"white line lesion severity, pre-calving",0.09
+"digital cushion thickness (flexor tuberosity), early lactation",0.15
+"white line lesion severity, calving",0.07
+"digital cushion thickness (flexor tuberosity), calving",0.26
+"digital cushion thickness (max), calving",0.29
+"number of services per conception (cows)",0.04
+"number of services per conception (heifers)",0.02
+"Respiratory rate",0.035
+"Drooling score",0.03
+"Milk casein micelle size",0.28
+"curd firmness",0.375
+"milk titratable acidity",0.455
+"Total coagulation time",0.44
+"Sperm progressive motility",0.1
+"Warner-Bratzler shear force 7 days post-mortem",0.1523
+"muscle pH 7 days post-mortem",0.2518
+"Maintenance efficiency",0.2332
+"water holding capacity 7 days post-mortem",0.1301
+"Efficiency of gain",0.3478
+"Myofibrillar fragmentation index",0.1725
+"sperm motility after freeze-thawing",0.145
+"cow weight at calving",0.21
+"daughter pregnancy rate",0.092
+"thoracic perimeter",0.3
+"interval from first to last insemination (heifers)",0.015
+"conception rate at first insemination",0.012
+"non-return rate at 56 days",0.013
+"harvest hip height",0.47
+"average daily gain, weaning to yearling",0.24
+"harvest weight",0.305
+"average daily gain, birth to weaning",0.28
+"average daily gain, yearling to harvest",0.17
+"weaning hip height",0.175
+"Mean corpuscular hemoglobin content",0.343333333333333
+"Mean platelet volume",0.163333333333333
+"Red blood cell distribution width",0.21
+"Hematocrit",0.11
+"Milk heptadecenoic acid content",0.43
+"subcutaneous backfat thickness ",0.174
+"scrotal circumference at 450 days of age",0.412
+"scrotal circumference at 365 days of age",0.371
+"12th-13th rib longissimus muscle area",0.28
+"body weight at 365 days",0.203333333333333
+"body weight at 120 days",0.25
+"body weight at 210 days",0.276666666666667
+"body weight at 450 days",0.346666666666667
+"body weight at 450 days of age",0.38
+"scrotal circumference at 730 days of age",0.42
+"body weight at 365 days of age",0.36
+"scrotal circumference at 550 days of age",0.535
+"Milk protein yield persistency",0.09
+"Somatic cell score persistency",0.03
+"Milk fat yield persistency",0.07
+"Partial efficiency of growth",0.56
+"ultrasound longissimus muscle area",0.39
+"carcass marbling score",0.49
+"genetic residual feed intake",0.42
+"phenotypic residual feed intake",0.21
+"daily dry matter intake",0.54
+"carcass longissimus muscle area",0.45
+"ultrasound marbling score",0.75
+"ribeye area",0.226193
+"longissimus muscle area",0.295
+"heart girth at 6 months",0.51
+"hip height at slaughter",0.67
+"hip height at 600 days",0.58
+"hip height at 400 days",0.41
+"white line disease severity",0.04
+"sole hemorrhage severity",0.12
+"white line disease susceptibility",0.1
+"sole ulcer severity",0.07
+"sole ulcer susceptibility",0.35
+"sole hemorrhage susceptibility",0.29
+"adjusted weight at 450 days of age",0.35
+"Heel depth",0.225
+"fore teat length",0.28
+"fore teat placement",0.14
+"height at the front end",0.11
+"Age at slaughter",0.151
+"200-day weight",0.14
+"400-day weight",0.26
+"fat depth at the 12th/13th rib",0.34
+"rump P8 fat depth",0.55
+"600-day weight",0.48
+"Feed intake",0.55
+"withers height at 6 months",0.49
+"cannon bone circumference at 12 months",0.29
+"abdominal size at 18 months",0.14
+"body length at 6 months",0.52
+"abdominal size at 12 months",0.3
+"cannon bone circumference at 18 months",0.54
+"body weight at 400 days",0.46
+"heart girth at birth",0.27
+"hip height at 200 days",0.31
+"Non-fat milk solids",0.13
+"shear force at 7 days' aging",0.14
+"subcutaneous backfat thickness",0.16
+"Meat color",0.132719
+"backfat thickness (third lactation)",0.424
+"daily milk yield (third lactation)",0.341
+"body condition score (third lactation)",0.332
+"backfat thickness (first lactation)",0.406
+"daily milk yield (first lactation)",0.327
+"body condition score (first lactation)",0.315
+"body condition score (second lactation)",0.297
+"daily milk yield (second lactation)",0.367
+"backfat thickness (second lactation)",0.357
+"Rib fat",0.25
+"7-day shear force",0.29
+"Muscle creatinine content",0.59
+"Blood beta-hydroxybutyrate level",0.168
+"hip height at 378 days of age",0.415
+"weight at 210 days of age",0.21
+"hip height at 550 days of age",0.57
+"weight at 550 days of age",0.485
+"chest girth at 378 days of age",0.25
+"weight at 378 days of age",0.335
+"chest girth at 550 days of age",0.435
+"milk yield adjusted to 305 days",0.21
+"Milk electroconductivity",0.46
+"front teat distance",0.53
+"teat distance front-rear ",0.65
+"rear teat distance",0.4
+"Warner-Bratzler shear force after 29 days aging",0.22
+"Warner-Bratzler shear force after 3 days aging",0.19
+"overall tenderness after 29 days aging",0.18
+"flavor intensity after 29 days aging",0.13
+"overall palatability after 3 days aging",0.21
+"sustained juiciness after 29 days aging",0.03
+"connective tissue amount after 3 days aging",0.1
+"connective tissue amount after 29 days aging",0.14
+"sustained juiciness after 3 days aging",0.03
+"off-flavor intensity after 3 days aging",0.1
+"meat pH after 3 days aging",0.2
+"off-flavor intensity after 29 days aging",0.2
+"meat pH after 29 days aging",0.004
+"flavor intensity after 3 days aging",0.06
+"overall palatability after 29 days aging",0.12
+"intramuscular fat content after 29 days aging",0.54
+"overall tenderness after 3 days aging",0.31
+"intramuscular fat content after 3 days aging",0.43
+"Platelet-large cell ratio",0.04
+"Peripheral blood mononuclear cell number",0.2
+"Granulocyte number",0.1
+"Granulocyte percentage",0.04
+"Platelet distribution width",0.16

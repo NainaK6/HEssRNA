@@ -1,0 +1,36 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Footer Styles */
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #f8f9fa;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer-left, .footer-right {
+    display: flex;
+    align-items: center;
+}
+
+.footer-center {
+    text-align: center;
+    flex: 1;
+}
+
+.footer-left img {
+    margin-right: 10px;
+}
+
+.footer-right iframe {
+    margin-left: 10px;
+}
