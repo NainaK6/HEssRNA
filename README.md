@@ -7,8 +7,8 @@ additional parameters such as statistical power and fold change. The package nor
 heritability values according to trait-specific heritability and classification to enhance accuracy
 in sample size estimation.
 
-hIndxMeanCalc4Traits
-hIndxMeanCalc4Traits: Calculate Mean Heritability Index for Traits
+**hIndxMeanCalc4Traits.R function**
+Calculate Mean Heritability Index for Traits
 Description
 This function processes heritability index data, filtering out empty trait names, and calculates the
 mean heritability for each unique trait. The resulting output is a data frame with traits and their
@@ -30,8 +30,8 @@ Heritability = c(0.5, 0.6, 0.7, 0.8))
 result <- hIndxMeanCalc4Traits(hIndexValDF)
 print(result)
 
-powerCalc.R
-powerCalc: Power Calculation from gene expression data information
+**powerCalc.R function**
+Power Calculation from gene expression data information
 Description
 This function takes the required input information such as count data, sample data, etc. to calculate
 the power. It filters the input count data, performs DESeq2 analysis to calculate differentially expressed
@@ -72,7 +72,8 @@ print(result$PowerResults)
 warning("Example data files not found.")
 }
 
-prcesDF4modelInhouse - Process Data Frame in In-House Format for Model Building
+**prcesDF4modelInhouse.R function**
+Process Data Frame in In-House Format for Model Building
 Description
 This function takes a data frame in an in-house format and processes it to make it in longer format
 and round the value of the power to 3 digits for building a model. It reshapes the data from a wide
@@ -99,7 +100,8 @@ R3 = c(0.83, 0.89)
 result <- prcesDF4modelInhouse(df)
 print(result)
 
-smplSizPred - Predict Number of Replicates Based on Heritability, Power, and Fold Change
+**smplSizPred.R function**
+Predict Number of Replicates Based on Heritability, Power, and Fold Change
 Description
 This function predicts the number of replicates required for a given experiment based on heritability,
 power, fold change, and tissue type. The model is constructed using the provided data, and the
@@ -151,8 +153,8 @@ trait = "Trait1",
 tissue = "Liver")
 print(NoOfReplicatesPred)
 
-smplSizPredModel.R
-smplSizPredModel - Generate a Linear Model for Sample Size Prediction
+**smplSizPredModel.R function**
+Generate a Linear Model for Sample Size Prediction
 Description
 This function generates a linear regression model to predict the number of replicates (NoOfReplicates)
 based on heritability, power, fold change, and tissue type. The model is generated depending on
